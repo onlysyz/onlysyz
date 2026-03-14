@@ -1,4 +1,4 @@
-### Hi there, I'm tiankuo.zhou 👋
+### Hi there, I'm tian
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Application+Developer;Open+Source+Enthusiast;Java+%26+Python+Engineer" alt="Typing SVG" />
